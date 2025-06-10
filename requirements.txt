@@ -1,0 +1,13 @@
+streamlit>=1.32.0
+openai>=1.0.0
+python-dotenv>=1.0.1
+python-decouple>=3.8
+pandas>=2.2.1
+numpy>=1.26.4
+plotly>=5.19.0
+validators>=0.22.0
+textblob>=0.17.1
+langdetect>=1.0.9
+# Note: googletrans has compatibility issues with Python 3.13
+# Using alternative translation approach
+aiohttp>=3.9.3
